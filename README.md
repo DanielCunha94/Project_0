@@ -1,3 +1,3 @@
 # Project_0
 
-Academic project- temperarure control system
+Academic project- temperature control system
